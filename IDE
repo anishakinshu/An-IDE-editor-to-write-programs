@@ -1,0 +1,10 @@
+It is a code editor written in java.
+Language used : JAVA
+tools used : netbeans.
+
+It can display output , take input at runtime and display compile error.
+It provides syntax highlighting,auto-completion, find and replace, undo/redo, font size and style and keyboard shortcuts. 
+It shows line number and column number at the bottom of editor.
+It also display a menu on right click with features copy, paste, find and run.
+It display compilation time on status bar.It can show recently opened files and has features of resizing various panes.
+These fundamentals are implemented by using Abstract Window Toolkit(AWT)  that supports the control like textarea, textfield,  checkbox, pushbutton, labels etc.
